@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.301,=C:\Рабочая\C++\SuperPuzzleMaster\res.rc</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.486,=C:\Рабочая\C++\SuperPuzzleMaster\res.rc</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,C:\Рабочая\C++\SuperPuzzleMaster\res.rc=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,C:\Users\pivog\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Рабочая\C++\SuperPuzzleMaster\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.913,C:\Users\pivog\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Рабочая\C++\SuperPuzzleMaster\SuperPuzzleMaster.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.318,=C:\Users\pivog\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.033,=C:\Users\pivog\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.575,=C:\Рабочая\C++\SuperPuzzleMaster\res.rc</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,C:\Users\pivog\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Рабочая\C++\SuperPuzzleMaster\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,C:\Users\pivog\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Рабочая\C++\SuperPuzzleMaster\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.896,C:\Рабочая\C++\SuperPuzzleMaster\Project1PCH1.h=C:\Рабочая\C++\SuperPuzzleMaster\SuperPuzzleMasterPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.927,C:\Users\pivog\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Рабочая\C++\SuperPuzzleMaster\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,C:\Рабочая\C++\SuperPuzzleMaster\res.rc=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.255,=C:\Users\pivog\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.880,=C:\Users\pivog\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
